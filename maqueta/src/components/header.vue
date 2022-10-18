@@ -10,29 +10,29 @@
   <!-- Layout config Js -->
 
   <!-- Bootstrap Css -->
-  <link href="../public/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+  <link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
   <!-- Icons Css -->
-  <link href="../public/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+  <link href="../assets/css/icons.min.css" rel="stylesheet" type="text/css" />
   <!-- App Css-->
-  <link href="../public/assets/css/app.min.css" rel="stylesheet" type="text/css" />
+  <link href="../assets/css/app.min.css" rel="stylesheet" type="text/css" />
   <!-- custom Css-->
-  <link href="../public/assets/css/custom.min.css" rel="stylesheet" type="text/css" />
+  <link href="../assets/css/custom.min.css" rel="stylesheet" type="text/css" />
 
   <!-- nouisliderribute css -->
-  <link rel="stylesheet" href="../public/assets/libs/nouislider/nouislider.min.css">
+  <link rel="stylesheet" href="../assets/libs/nouislider/nouislider.min.css">
 
   <!-- gridjs css -->
-  <link rel="stylesheet" href="../public/assets/libs/gridjs/theme/mermaid.min.css">
+  <link rel="stylesheet" href="../assets/libs/gridjs/theme/mermaid.min.css">
 
 
 
   <!-- Sweet Alert css-->
-  <link href="../public/assets/libs/sweetalert2/sweetalert2.min.css" rel="stylesheet" type="text/css" />
+  <link href="../assets/libs/sweetalert2/sweetalert2.min.css" rel="stylesheet" type="text/css" />
 
       
 
   <!--Swiper slider css-->
-  <link href="../public/assets/libs/swiper/swiper-bundle.min.css" rel="stylesheet" type="text/css" />
+  <link href="../assets/libs/swiper/swiper-bundle.min.css" rel="stylesheet" type="text/css" />
 </template>
 
-<script src="../public/assets/js/layout.js"></script>
+<script src="../assets/js/layout.js"></script>
